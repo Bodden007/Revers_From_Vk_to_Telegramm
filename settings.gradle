@@ -1,2 +1,3 @@
 rootProject.name = 'Revers_From_Vk_to_Telegramm'
+include 'common'
 
