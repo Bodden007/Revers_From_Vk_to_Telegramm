@@ -11,6 +11,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Teleg_Bot" />
+            <option value="$PROJECT_DIR$/VK_Bot" />
             <option value="$PROJECT_DIR$/common" />
           </set>
         </option>

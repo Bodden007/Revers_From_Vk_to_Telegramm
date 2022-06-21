@@ -1,7 +1,10 @@
 plugins {
     id 'java'
-}
+ }
 
+project (':common') {
+
+}
 
 
 group 'org.example'
